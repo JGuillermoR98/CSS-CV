@@ -55,6 +55,9 @@ h3{
 }
 .mt{
     float: right;
+    width: 150px;
+    height: 150px;
+    margin-left: 1rem;
 }
 
 p{
