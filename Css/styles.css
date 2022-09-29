@@ -1,0 +1,94 @@
+
+body{ 
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+.bottomCloud{
+    position: absolute;
+    left: 400px;
+}
+.bottom-container{
+    background-color: #3282B8;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 20px;
+    padding-top: 20px;
+     
+}
+.btn:hover{
+    color: azure;
+}
+.footer-link:hover{
+    color:azure;
+}
+
+a{
+    font-family: 'Roboto', sans-serif;
+    color: #0F4C75;
+    margin-bottom: 0rem;
+    margin :10px;
+    text-decoration: none;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:5rem;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.middle-container{
+    padding-bottom: 50px; 
+    position: relative;
+}
+.mt{
+    float: right;
+}
+
+p{
+    text-align: justify;
+}
+
+.pfp{
+    border-radius: 80%;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2rem;
+}
+
+.tcs{
+    float:left;
+
+}
+.top-container{
+    position: relative;
+    background-color:rgb(236, 216, 189);
+    padding-top: 200px;
+
+}
+
+
+.topCloud{
+    position: absolute;
+    top: 150px;
+    left: 900px;
+}
+
+.knowledge{
+    text-align: center;
+}
